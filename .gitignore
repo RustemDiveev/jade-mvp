@@ -1,0 +1,5 @@
+/MTPs\-Main\-Container.txt
+target/*
+target/maven-status/maven-compiler-plugin/compile/*
+target/maven-status/maven-compiler-plugin/compile/default-compile/*
+/MTPs-Main-Container.txt
